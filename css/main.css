@@ -186,9 +186,9 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #348cb2 url("images/bg.jpg") bottom left;
+		background: #0c2b61 url("images/bg.jpg") bottom left;
 		background-repeat: repeat-x;
-		height: 100%;
+		height: auto;
 		left: 0;
 		opacity: 1;
 		position: fixed;
@@ -265,7 +265,7 @@
 	}
 
 	#bg {
-		background-size: 2250px auto;
+		background-size: 100%;
 		width: 6750px;
 	}
 
